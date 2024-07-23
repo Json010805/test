@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<navigation-bar title="Daixy&XXX" back="{{false}}" color="pink" background="#FFF" ></navigation-bar>
+<view id="title">
+<text>daixy</text>
+</view>
